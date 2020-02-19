@@ -1,6 +1,6 @@
 # hello-world
 
-Hello stinky heads and Ello Gromet :)
+Hello stinky heads and Ello Gromit :)
 
 This is the first Github code created by me.
 
